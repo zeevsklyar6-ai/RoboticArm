@@ -1,2 +1,0 @@
-# RoboticArm
-RoboticArm_Arduino
